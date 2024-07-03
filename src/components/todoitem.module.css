@@ -32,3 +32,8 @@
 .deleteButton:focus {
   transform: translateY(3px);
 }
+
+.completed {
+  text-decoration: line-through;
+  cursor: pointer;
+}
