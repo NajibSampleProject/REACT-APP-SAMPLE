@@ -3,13 +3,15 @@
   color: #5c7aff;
   font-size: 20px;
   margin: 0 auto;
+  text-align: left;
 }
 
 .itemName {
   font-weight: bold;
-  padding: 20px;
+  padding: 5px 20px;
+  color: #fff;
 }
 
 .line {
-  border: 0.11rem solid #5c7aff;
+  border: 0.11rem solid grey;
 }
