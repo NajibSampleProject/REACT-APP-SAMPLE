@@ -1,0 +1,15 @@
+.header {
+  background-color: royalblue;
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0.2rem;
+  padding: 1.5rem;
+  cursor: pointer;
+  transition: all 0.7s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.header:hover {
+  color: goldenrod;
+}
